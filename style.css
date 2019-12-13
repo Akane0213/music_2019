@@ -1,0 +1,19 @@
+body {
+	font-family: 'Quicksand', sans-serif;
+}
+
+
+
+img {
+	width: 20rem;
+	height: 20rem;
+	margin: 3rem 3rem 1rem 3rem;
+}
+
+.row {
+	text-align: center;
+}
+
+.buffer {
+	height: 100px;
+}
